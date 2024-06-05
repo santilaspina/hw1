@@ -1,0 +1,8 @@
+brand: Jil Sander
+nome: Zip-Up Jacket Eggshell
+categoria: 2
+descrizione: The Zip-Up Jacket is a cozy Jil Sander style predominantly crafted from natural cotton fleece. It is lined with a viscose-elastane blend and outfitted with a standing collar as well as full front zip fastening detailed with a logo puller. Zippered pockets are incorporated onto the front of the garment to complete the design.
+
+colore: Eggshell
+materiale: Outer is 100% natural cotton fleece, Lining is 95% viscose, 5% elastane
+costo:990.00

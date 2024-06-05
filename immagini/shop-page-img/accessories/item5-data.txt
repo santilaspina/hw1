@@ -1,0 +1,8 @@
+brand: G-Shock
+nome: GD-400GB-1ER
+costo: 75.00
+categoria: 1
+descrizione: The GD400 is one of G-Shock’s toughest watches due to its large case and bulbar (wire-face protector). First released in 2014, the model has been updated with new colorways and has all the features and add-ons Casio’s timepieces are known for. G-Shock has outfitted the GD400 with a background illuminator and neo-display for visibility in low-light situations, a timer and stop function for athletes, a multifunctional alarm, a world time function with up to 4 different time zones, and an automatic calendar, among other features.
+
+colore: Black
+materiale: Carbon-reinforced resin case, mineral glass and additional bullbar for superior protection.

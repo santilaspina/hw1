@@ -1,0 +1,7 @@
+brand: Porter-Yoshida & Co.
+nome: Tanker Daypack Black
+costo: 740,00
+categoria: accessories
+descrizione:  The Daypack comes from Porter's Tanker series, which dates back to the 1980s 	and is notable for featuring layered fabric used by the US Air Force for flight 	jackets. Noticeably lightweight with a soft, yet durable nylon twill finish, the 	backpack is completed with a laptop pouch, internal and external pockets, and gold-	tone hardware.
+colore: Black
+materiale:, Tear-stopping nylon ripstop fabric

@@ -1,0 +1,7 @@
+brand: Porter-Yoshida & Co.
+nome:  Force Shoulder Bag Olive Drab
+prezzo: 260,00
+categoria: accessories
+descrizione: 	A part of the brand's Force collection, the Shoulder Bag draws from military 	styles. It is predominantly constructed using nylon and has an acrylic coating as 	well as a quilted interior. An adjustable shoulder strap allows you to dial in the 	fit of the bag, while a main zippered compartment and two external zippered pockets 	provide you with ample space for storing daily essentials.
+colore: olive Drab
+materiale: 100% nylon

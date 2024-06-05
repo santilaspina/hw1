@@ -1,0 +1,7 @@
+brand: Porter-Yoshida & Co.
+nome: Tanker Shoulder Bag Black
+costo: 430,00
+categoria: accessories
+descrizione: Porter’s Tanker Shoulder Bag is designed to be your everyday bag. Crafted from a 	durable nylon fabric, the staple style is slightly padded and features pockets on 	both the interior and exterior for optimal organization. The bag’s shoulder strap is 	both adjustable and removable, making way for multiple carrying options.
+colore: Black
+materiale:Three-layer fabric with a nylon twill front, polyester cotton middle, and nylon 	taffeta back

@@ -1,0 +1,11 @@
+brand: Adidas x Wales Bonner
+nome: Samba Desert/White
+categoria 2
+
+descrizione: The Samba is an undisputed adidas icon. Born on the soccer (football) field, the sleek, low-top silhouette is a timeless style with certified street appeal. A part of the latest Wales Bonner collaboration, this particular iteration draws from the enduring legacy of East African runners. It arrives in two colorways, each featuring a soft leather upper with complementary overlays and trademark Three Stripes detailing on the side. Below, you will find a textured gum rubber cupsole, as additional iconography is incorporated throughout the shoe, including the Wales Bonner logo and co-branding on the tongue and insole.
+
+colore: R Desert W Wht
+
+materiale: Leather upper, suede overlays, textile lining, rubber sole
+
+costo: 180.00

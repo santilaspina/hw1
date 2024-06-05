@@ -1,0 +1,11 @@
+brand: KUSIKOHC
+
+nome: KSK R Patch Denim Pants Black
+
+cateoria 2
+
+descrizione: This pair of Kusikohc denim is defined by contrasting detailing in an intricate pattern at the legs. The style is cut for a straight leg fit from 100% cotton and features traditional five-pocket styling. Other details include button fastening, a concealed fly, and belt loops lining the waist. The pant is then finished with a leather logo patch applied to the back of the waistband.
+
+colore: Black
+materiale: 100% cotton
+costo:840.00

@@ -1,0 +1,11 @@
+brand: Awake NY
+nome: Painter Pant Blue
+categoria 2
+
+descrizione: The Painter Pant is Awake NY's take on a classic workwear style. Constructed from 100% cotton, the pair has been subjected to a dyed treatment that creates a more distinctive look. Traditional design elements are incorporated including tool pockets and a hammer loop, as the pair is finished with a stitched "A" logo as well as a brand patch attached to the back right pocket.
+
+materiale: 100% cotton
+
+colore: Blue
+
+costo: 170.00

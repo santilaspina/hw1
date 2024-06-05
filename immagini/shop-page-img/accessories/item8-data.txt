@@ -1,0 +1,8 @@
+brand: Marni x retrosuperfuture
+nome: Mavericks Radica
+costo: 320.00
+categoria: 1
+descrizione: Marni eyewear is produced in partnership with contemporary sunglasses brand, Retrosuperfuture. Models like the Mavericks are unconventional and eye-catching, characterized by oversized silhouettes and chunky shapes in bold colors. Expertly crafted in Italy, these glasses combine a low-riding, wooden-textured acetate frame with tinted lenses, featuring sturdy temples accented with gold-tone metal and Marni branding.
+
+colore: Radica
+materiale: 60% acetate, 40% nylon

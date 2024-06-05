@@ -1,0 +1,8 @@
+brand: Nike x Patta
+nome: Running Team Varsity Jacket Black/Yellow/White
+categoria 2
+descrizione: The Running Team Varsity Jacket arrives as part of Nike and Patta's latest collection and is crafted with pebbled leather sleeves in a sturdy, heavyweight design. Made with a wool body, the jacket includes a polyester lining and features side and interior pockets to keep your goodies secure. Embellished with an array of co-branded chenille patches throughout for that traditional letterman look, the collaborative jacket is finished with a button closure and striped ribbing at the hem, collar, and cuffs.
+
+colore:Black
+materiale:55% wool, 35% polyester, 10% rayon
+costo:600.00

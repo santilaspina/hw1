@@ -1,0 +1,11 @@
+brand: Story mfg.
+nome:Uniform Shirt Diamond Check
+
+categoria 2
+
+descrizione: The Uniform Shirt is a lightweight organic cotton style cut for a classic boxy fit. It is defined by a diamond check pattern implemented throughout, one that is complemented by striped detailing. The short-sleeve button-down features a point collar and a straight hem, with a single chest pocket that incorporates an intricate Story mfg. embroidered logo.
+
+colore: Diamond Check
+materiale: 100% organic cotton
+
+costo: 325.00

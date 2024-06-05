@@ -1,0 +1,247 @@
+
+.font{
+    font-family: "Open Sans", sans-serif;
+}
+.footer {
+    /*border: 3px solid red;*/
+    margin-top: 4%;
+    width: 100%;
+    height: 140vh;
+    display: block;
+    background-color: white;   
+}
+
+.container-footer1 {
+    /*border: 3px solid blue;*/
+    margin-bottom: 3%;
+    width: 100%;
+    height: 70%;
+}
+.links {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-footer {
+    /*border: 3px solid green;*/
+    width: 50%;
+}
+
+#map{
+    /*border: 3px solid blue;*/
+    height: 76.5%; 
+}
+
+.box-text {
+   /*border: 3px solid orange;*/
+    font-size: 2vw;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.box-img-download{
+   /*border: 3px solid yellow;*/
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.box-links{
+    /*border: 3px solid orange;*/
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;  
+}
+
+.box-link-interno{
+    /*border: 3px solid green;*/
+    width: 100%;
+    height: 33.3%;
+    display: flex;
+}
+
+.box-link-interno1{
+    /*border: 3px solid red;*/
+    width: 50%;    
+}
+
+.title-links{
+    /*border: 3px solid yellow;*/
+    height: 15%;
+    display: flex;
+    align-items: center;
+
+    font-weight: 600;
+    font-size: 1em;
+    padding-left: 3%;
+}
+
+.text-link{
+    /*border: 3px solid black;*/
+    height: 85%;
+    padding-left: 3%
+}
+
+.online-links{
+    text-decoration: none;
+    color: black;
+
+    font-size: .7em;
+    font-weight: 500;    
+}
+
+.online-links:hover{
+    border-bottom: 1px solid grey;
+}
+
+.container-footer2{
+    height: 10%;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    display: flex;
+}
+
+.box-footer-logo1{
+    /*border: 3px solid yellow;*/
+    width: 10%;
+    height: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-footer-loghi2{
+    /*border: 3px solid yellow;*/
+    width: 30%;
+    height: 100%;
+    display: flex;
+}
+
+.box-loghi{
+   /* border: 3px solid red;*/
+    width: 16.6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-links3{
+    /*border: 3px solid yellow;*/
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-location{
+   /* border: 3px solid yellow;*/    
+    width: 20%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loghi-footer{
+    width: 40%;
+    height: auto;   
+}
+
+.size{
+    font-size: 1vw;
+}
+
+.button-location{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 10%;    
+}
+
+.box-info{
+    /*border: 3px solid blue;*/
+    height: fit-content;
+    margin-top: 3%;
+}
+  
+.ultimo{
+    height: 10px;
+    width: 100%;
+}
+
+@media (max-width: 1024px) {
+    .container-footer1 {
+        /*border: 3px solid blue;*/
+        margin-bottom: 3%;
+    
+        width: 100%;
+        height: 70%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #map{
+        display: none;
+    }
+
+    .title-footer {
+        /*border: 3px solid green;*/
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .box-text {
+        /*border: 3px solid orange;*/
+        height: 100%;
+         font-size: 4vw;
+         font-weight: 700;
+         width: 70%;
+    }
+
+    .box-img-download{
+        /*border: 3px solid yellow;*/
+        height: 30%;        
+    }    
+
+    .box-links{
+        /*border: 3px solid orange;*/
+        width: 100%;
+        height: 100%;      
+        display: flex;
+        flex-direction: column;
+    }
+
+    .title-links{
+        display: block;
+        width: 100%; 
+        font-size: 1.5em; 
+           
+    }
+
+    .box-link-interno{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+       
+    }
+
+    .box-link-interno1{
+        /*border: 3px solid red;*/
+        width: 100%;
+        border-bottom: 2px solid black;
+        cursor: pointer;
+        
+    }
+
+    .big{
+        display: none;
+    }
+    
+}

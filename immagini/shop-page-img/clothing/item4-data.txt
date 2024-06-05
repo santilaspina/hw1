@@ -1,0 +1,8 @@
+brand: Museum of Peace & Quiet
+nome: Mano Curativa T-Shirt Forest
+categoria: 2
+descrizione: The Mano Curativa is a seasonal graphic style from Museum of Peace & Quiet. Cut from 100% cotton for a versatile unisex fit, the short-sleeve shirt features a traditional rib knit crew neck and a straight hem. A custom graphic print is showcased on the front of the tee to ultimately define the style.
+
+colore:Forest 
+materiale: 100% cotton
+costo: 65.00

@@ -1,0 +1,112 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.container{
+    margin-top: 8vh;
+    /*border: 3px solid red;*/
+    height: 92vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-text-box{
+   /*border: 3px solid red;*/
+    font-weight: 800;
+    font-size: 1.5em;
+    letter-spacing: 0px;
+    height: 10%;  
+    margin-top: 0; 
+    cursor: default;
+}
+
+.box-form{
+    /*border: 3px solid blue;*/
+    width: 50%;
+    height: fit-content;
+    margin-top: -9%;
+    border-top: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+ 
+      
+}
+
+.form{
+    width: 100%;
+    height: 100%;
+    /*border: 3px solid green;*/
+    margin-top: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+}
+
+.button-container{
+    /*border: 3px solid purple;*/
+    height: 30%;  
+}
+
+.form-container{    
+    height: 13em;
+    /*border: 3px solid green;*/
+
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+}
+
+
+.box-input{
+    height: 3em;
+    font-weight: 300;
+    font-size: 1em;
+    border-radius: 2px solid grey;
+}
+
+.button-sigin{
+    width: 100%;
+    height: 4em;
+    background-color: black;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    cursor: pointer;    
+}
+
+.help-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    /*border: 3px solid red;*/
+    
+}
+
+.link{
+    color: black;
+}
+
+.errore-email{
+    color: red;
+    margin-bottom: 1em;
+    
+}
+
+.errore-password{
+    color: red;
+    margin-bottom: 1em;      
+}
+
+.hidden{
+    display: none;
+}

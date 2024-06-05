@@ -1,0 +1,8 @@
+brand: C.P. Company
+nome: PiUM Hooded Jacket Ivy Green
+categoria: 2
+descrizione: This Hooded Jacket from C.P. Company is made using PiUM, a single strate opaque transparent RFD polyurethane membrane that retails little pigment, leading to the slightly pastel tones of the finished piece. The garment features an adjustable drawstring hood and button cuffs for minor alterations, with full-zip fastening at the front. Pockets are incorporated onto the front of the garment as well as the sleeve, where you will find the brand's signature lens detail.
+
+colore: Ivy Green
+materiale: 100% polyurethane
+costo: 795.00

@@ -1,0 +1,8 @@
+brand: Adidas x Wales Bonner
+nome: Short-Sleeve Tee Bold Orange/Team Royal Blue
+categoria: 2
+descrizione: A nod to classic sportswear, this adidas x Wales Bonner Tee embodies a throwback feel. It is crafted from pure organic cotton and detailed with iconography from both brands. You will find adidas' signature Three Stripes running down the sleeves, while the equally recognizable Trefoil logo is showcased at the chest. Opposite the Trefoil insignia is a matching Wales Bonner logo on the right side of the chest.
+
+colore: Bold Orange/Team Royal Blue
+materiale: 100% organic cotton
+costo: 100.00

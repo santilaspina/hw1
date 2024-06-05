@@ -1,0 +1,8 @@
+brand: Porter-Yoshida & Co.
+nome: Tanker Backpack Sage Green
+costo: 585.00
+categoria: 1
+descrizione: The Tanker Backpack is a staple Porter style constructed using an original three-layer fabric developed for US Air Force flight jackets. The material, which consists of nylon twill, polyester cotton, and nylon taffeta, is noticeably light and soft, all while being highly durable. The Tanker is outfitted with asymmetrical pockets on the front and metal fittings for longevity.
+
+colore: Sage Green
+materiale: 100% Nylon

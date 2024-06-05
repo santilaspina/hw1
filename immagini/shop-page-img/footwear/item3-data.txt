@@ -1,0 +1,9 @@
+brand: Saucony x Minted
+nome: ProGrid Triumph 4 Cream/Green
+categoria 2
+des crizione: Saucony has reintroduced the ProGrid Triumph 4 in a major way, as the 2000s runner is back with the same key details as when it first launched years ago. Catering to those who appreciate both style and technology, the resurgent sneaker fuses performance with lifestyle functionality, featuring an open mesh base with premium leather overlays and a medial panel packed with Arch-lock technology. ProGrid tooling is used in the midsole to ensure a comfy ride each time you step out.
+
+colore: Cream/Green
+materiale: Upper is 49% textile, 41% synthetic, 10% leather. Insole is 100% textile, lining is 100% textile & outsole is 100% rubber
+
+costo: 180.00

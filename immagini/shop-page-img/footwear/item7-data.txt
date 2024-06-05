@@ -1,0 +1,10 @@
+brand: Acne Studios
+nome: Low-Top Sneakers Grey Blue
+
+categoria: 2
+
+descrizione: Drawing from 1980s basketball sneakers, this Acne Studios footwear style is predominantly crafted from leather, with a metallic finish and cracked suede inserts. The low-top model is lined in polyester and finished with a flat sole with logo detailing. Additional iconography emerges at the footbed and heel of the lace-up sneaker.
+
+colore: Grey Blue
+materiale: Upper is 100% cow leather, lining is 100% polyester, sole is 100% thermoplastic polyurethane
+costo: 450.00

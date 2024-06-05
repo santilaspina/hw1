@@ -1,0 +1,11 @@
+brand: Reebok
+nome: Premier Road Modern Dream Pink
+categoria 2
+
+descrizione: Inspired by the brand's 2005 running collection, the Premier Road Modern is primed and ready to bring some post-Y2K flavor to your wardrobe. This new iteration is updated with modern material executions, emerging in a tonal pink colorway for adding a splash of color to your outfits. The shoe is outfitted with soft DMX foam in the midsole that enhances comfort each step of the way, in addition to reinforcement in the midfoot area that offers light support and stability. Reebok’s iconic Vector logo is incorporated on each side of the silhouette to boldly brand the monochrome sneaker.
+
+
+colore: Pink
+materiale: Upper is 22% polyester, 78% polyurethane; lining is 100% polyester; sole is 10% thermoplastic polyurethane, 40% rubber, 50% EVA
+
+costo: 220.00

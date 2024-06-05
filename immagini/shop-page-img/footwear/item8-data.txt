@@ -1,0 +1,10 @@
+brand: Acne Studios
+nome: Leather Loafers Beige
+categoria 2
+descrizione: This luxe new version of the Acne Studios Loafer is executed in a snake-finish print leather with leather soles. Also lined in leather, the shoe is then finished with metal debossed animation on the front.
+
+colore: Beige
+
+materiale: Upper is 100% calf leather, lining is 100% lamb leather, sole is 100% calf leather; snake print
+
+costo: 690.00

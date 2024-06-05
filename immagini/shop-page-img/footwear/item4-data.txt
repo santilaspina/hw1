@@ -1,0 +1,11 @@
+brand: Nike x Patta
+nome: Air Huarache 20Y24 Saffron Quartz/Cool Grey-Sanddrift
+categoria 2
+
+descrizione: Nike and Patta reunite for a new running-themed collection with the footwear and varsity jacket being the stars of the drop. The new Air Huarache 20Y24 blends the upper from the Nike Huarache Plus with the Nike Pegasus sole, for a shoe detailed with premium leather overlays and mesh underlay featuring a bootie construction. The upper is secured with a nylon webbing closure and the silhouette is finished with co-branded logos at the heel pull and tongue patch.
+
+colore: Saffron Quartz/Cool Grey-Sanddrift
+
+materiale: Mesh upper with leather overlays, rubber outsole, adjustable nylon webbing closure
+
+costo: 160.00

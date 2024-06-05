@@ -1,0 +1,8 @@
+brand: G-Shock
+nome: GM-5600U-1ER The Origin Silver/Black
+costo= 180.00
+categoria=n1
+descrizione: The first G-Shock design change came by way of the 5600 in 1987. The model is now encased in shockproof housing for durability and flexibility, as the resin case makes it ideal for everyday wear, and scratch-resistant mineral glass offers added protection from unsightly damage. Also known for its technical specifications, G-Shock has outfitted the 5600 with a background illuminator for visibility in low-light situations, timer and stop function for athletes, multifunctional alarm, and automatic calendar, among other features.
+
+colore: Black
+materiale: resin case, mineral glass, led display

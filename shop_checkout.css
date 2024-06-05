@@ -1,0 +1,379 @@
+.font {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.navbar{
+    height: 8vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid black;
+    z-index: 4;
+    background-color: white;
+}
+
+.filler{
+    width: 15%;
+    height: 100%;
+    /*border: 3px solid red;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.nav-big-box{
+    width: 70%;
+    height: 100%;
+    /*border: 3px solid blue;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-img {
+    width: 200px;
+    height: auto;   
+}
+
+.x-icon{
+    width: 40px;
+    height: auto;
+}
+
+body{
+    /*border: 3px solid red;*/
+    margin-top: 8vh;
+    height: auto;    
+    padding: 2vw;
+    background-color: whitesmoke;
+    overflow-x: hidden;
+    
+}
+.big-cnt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+
+}
+
+.cnt-sx{
+    width: 65%;
+    height: 100%;
+    /*border: 3px solid green;*/
+    background-color: whitesmoke;
+    padding: 1vw;
+    padding-top: 0;
+    
+
+    display: flex;
+    flex-direction: column;
+}
+
+.cnt-dx{
+    width: 25%;
+    height: fit-content;
+    /*border: 3px solid red;*/
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 1vw;
+    position: fixed;
+    z-index: -1;
+
+    left: 70%;
+
+}
+.cnt-title {
+    /*border: 3px solid red;*/
+    text-transform: uppercase;
+    width: 100%;
+    height: 5vh;
+    font-weight: 800;
+    font-size: 1.5em;
+    margin-bottom: 4vh;
+    padding-top: 1vh;
+   
+}
+
+.box-top{
+    /*border: 3px solid red;*/
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box-costi{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.box-total{
+    /*border: 3px solid blue;*/
+    height: 5vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    font-weight: 600;
+}
+
+.cnt-costi{
+    border-bottom: 1px solid grey;
+}
+
+.cnt-items{
+    height: fit-content;
+    width: 100%;
+    /*border: 3px solid red;*/
+    margin-top: 4vh;
+}
+
+.box-item{
+    height: 22vh;
+    width: 100%;
+    margin-bottom: 1vh;
+    /*border: 3px solid blue;*/
+    display: flex;
+    flex-direction: row;
+}
+
+.box-img{
+    /*border: 3px solid yellow;*/
+    width: 30%;
+    height: 100%;
+
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-information{
+    width: 70%;
+    height: 100%;
+    /*border: 3px solid black;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 10px;
+}
+
+.box-costo{
+    position: relative;
+    left:78%;
+    bottom: 55%;
+    
+}
+
+.img-item{
+    width: 100%;
+    height: auto;
+}
+
+.brand-name-box{
+    font-weight: 600;
+    font-size: 1em;
+}
+.filler{
+    height: 20%;
+    /*border: 3px solid red;*/
+}
+
+.dim{
+    font-size: 1em;
+}
+
+.box-address-data{
+    background-color: white;
+    /*border: 3px solid red;*/
+    width: 100%;
+    height: auto;
+    margin-bottom: 8vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vh;
+}
+
+.box-shipping-method{
+    background-color: white;
+    /*border: 3px solid blue;*/
+    width: 100%;
+    height: auto;
+    margin-bottom: 8vh;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vh;
+}
+
+.box-payment-method{
+    background-color: white;
+    /*border: 3px solid blue;*/
+    width: 100%;
+    height: auto;
+    margin-bottom: 8vh;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vh;
+
+}
+
+
+.form-container{
+    /*border: 3px solid black;*/
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.box-input-small{
+    width: 49%;
+    height: 7.5vh;
+    border-radius: 4px solid grey;
+    margin-bottom: 2vh;
+
+    font-size: 1em;
+}
+
+.box-input-big{
+    width: 99%;
+    height: 7.5vh;
+    border-radius: 4px solid grey;
+    margin-bottom: 2vh;
+
+    font-size: 1em;
+}
+
+.button{
+    width: 100%;
+    height: 7.5vh;
+    border-radius: 4px solid black;
+    background-color: black;
+    color: white;
+    margin-bottom: 1vh;
+    
+    
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: rgb(46, 46, 46);
+
+}
+
+.form{
+    width: 100%;
+    height: 100%;
+}
+
+.payment-form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between ;
+}
+
+.input-button{
+    display: none;
+}
+
+.radio-label{
+    width: 99%;
+    height: 7.5vh;
+   
+    border: 1px solid grey;
+    margin-bottom: 2vh;
+
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 1vw;
+}
+
+.input-button:checked+.radio-label {
+    background-color: rgb(80, 80, 80);
+    border-color: black;
+    color: white;
+}
+
+.box-payment-data{
+    background-color: white;
+    /*border: 3px solid blue;*/
+    width: 100%;
+    height: auto;
+    margin-bottom: 8vh;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vh;
+
+}
+
+.box-input{
+    height: 7.5vh;
+    border-radius: 4px solid grey;
+    margin-bottom: 2vh;
+
+    font-size: 1em;
+
+}
+
+.cardnumber{
+    width: 45%;
+   
+}
+
+.expiredate{
+    width: 25%;
+}
+
+.cvv{
+    width: 20%;
+}
+
+
+
+.unclickable{
+    background-color: grey;
+    cursor: auto;
+}
+
+.error{
+    color: red;
+    font-weight: 500;
+}
+
+.check-order{
+    font-size: 2.5em;
+    font-weight: 800;
+    color: green;
+    margin-bottom: 13vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.hidden{
+    display: none;
+}

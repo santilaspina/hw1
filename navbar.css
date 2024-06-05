@@ -1,0 +1,233 @@
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    height: 8vh;
+    width: 100%;
+    /*border: 3px solid black;*/
+    display: flex;
+    background-color: white;
+    border-bottom: 1px solid rgb(199, 199, 199);
+    /*border: 3px solid red;*/
+}
+
+.font {
+    font-family: "Open Sans", sans-serif;
+}
+
+.nav-small-box {
+    width: 15%;
+    /*border: 3px solid red;*/
+    display: flex;
+}
+
+
+.dropdown-content {
+    left: 0px;
+    top: 8vh;
+    position: fixed;
+    display: none;
+    flex-direction: column;
+    /*border: 3px solid purple;*/
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.dropdown:hover .dropdown-content{
+    display: flex;
+}
+
+.dropdown-head {
+    /*border: 3px solid green;*/
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+}
+
+.dropdown-link-container {
+    /*border: 3px solid black;*/
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-top:20px ;
+}
+
+.nav-links {
+    margin-top: 3px;
+    color: rgb(89, 89, 89);
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+.nav-links:hover {
+    text-decoration: underline;
+}
+
+
+.dropdown-img-container {
+    /*border: 3px solid red;*/
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.dropdown-img-box {
+    width: 50%;
+    /*border: 3px solid green;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.dropdown-foother{
+    /*border: 3px solid blue;*/
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid gray;       
+}
+
+
+.img-cnt{
+   /* border: 3px solid black;*/
+    width: 90%;
+    height: fit-content;
+}
+
+.img-nav{
+    width: 100%;
+}
+
+.img-nav-description{
+    /*border: 3px solid blue;*/
+    width: 70%;
+    height: 20%;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+
+
+.nav-big-box {
+    width: 70%;
+    height: 100%;
+    /*border: 3px solid blue;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link {
+    width: 50%;
+    height: 100%;
+    /*border: 2px solid green;*/
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.nav-logo-box {
+    width: 20%;
+    height: 1%;
+    /*border: 3px solid yellow;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+    overflow: hidden;
+}
+
+.nav-logo {
+    width: 200px;
+    height: auto;
+}
+
+.icon-box {
+    width: 20%;
+    height: 100%;
+    /*border: 3px solid red;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dx {
+    justify-content: space-around
+}
+
+.icon-img {
+    width: 30px;
+    cursor: pointer;
+}
+
+.sml{
+    display: none;
+}
+
+
+@media (max-width: 1024px) {
+    body{
+        margin-top: 20vh;
+    }
+
+    #navbar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 2;
+        height: 20vh;
+        width: 100%;
+        /*border: 3px solid black;*/
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        border-bottom: 1px solid rgb(199, 199, 199);
+        /*border: 3px solid red;*/
+    }
+
+    .sml{
+        display: block;
+    }    
+
+    .nav-small-box {
+        width: 100%;
+        /*border: 3px solid red;*/
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;       
+    }
+
+    .nav-big-box {
+        width: 100%;
+        height: 8vh;
+        /*border: 3px solid blue;*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 2px solid grey;        
+    }
+
+    .border{
+        border-right: 4px solid black;
+    }    
+
+    .dropdown-content{
+        border-top: 2px solid gray;
+    }
+
+    .big{
+        display: none;
+    }
+}

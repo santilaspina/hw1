@@ -1,0 +1,11 @@
+brand: New Balance
+nome: 1906 REH Harbor Gray
+categoria: 2
+
+descrizione:New Balance has rejuvenated the 1906R in a major way. Named for the year the brand was founded, the familiar silhouette is updated with an upper inspired by running shoe designs from the 2000s. Now with considerably more lifestyle appeal, the 1906R is still a staple in the running world, boasting a timeless look and refined upgrades. ACTEVA LITE in the midsole and ABZORB SBS cushioning in the heel ensure comfort and stability, while a N-ergy shock absorbing outsole with a Stability Web adds arch support, creating a shoe that performs just as good as it looks.
+
+colore: Harbor Grey
+materiale: Leather, textile, and mesh upper. Reflective N logo
+
+costo: 160.00
+

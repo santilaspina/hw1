@@ -1,0 +1,8 @@
+brand:Marni x retrosuperfuture
+nome: Ik Kil Cenote Panna
+categoria:1
+costo. 270.00
+colore: Panna
+descrizione: Marni eyewear is produced in partnership with contemporary sunglasses brand, Retrosuperfuture. Models like the Ik Kil Cenote are unconventional and eye-catching, characterized by oversized silhouettes and chunky shapes in bold colors. Expertly crafted in Italy, these glasses combine a chunky oval acetate frame with orange-tinted lenses, featuring sturdy temples accented with gold-tone metal and Marni branding.
+
+materiale: 60% acetate, 40% nylon

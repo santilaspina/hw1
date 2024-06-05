@@ -1,0 +1,11 @@
+brand: Reebok x Botter
+
+nome: Energia Bo Kèts White/Beige
+categoria : 2
+
+descrizione: BOTTER is back alongside Reebok to once again reimagine the Energia Bo Kèts. This time around, the sleek silhouette emerges in a clean white colorway and a stealthy black look, featuring a synthetic upper and a rubber sole. The sneaker, which draws from Reebok's archival soccer cleats from the 2000s as well as their 90s climbing shoes, is defined by its fold-over tongue, here branded with the iconic Vector logo. The symbol also appears on other areas of the shoe, complemented by BOTTER iconography that signals the collaboration.
+
+colore: White Beige
+materiale: Upper is 60% polyurethane, 40% polyester; lining is 100% polyester; sole is 50% EVA, 40% rubber, 10% thermoplastic polyurethane
+
+costo: 330.00
